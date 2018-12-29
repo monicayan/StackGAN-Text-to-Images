@@ -1,0 +1,10 @@
+zip
+unzip
+tensorflow-gpu==1.0.1
+prettytensor
+progressbar
+python-dateutil
+easydict
+pandas
+torchfile
+imageiogoogledrivedownloader
